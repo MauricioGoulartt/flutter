@@ -2,6 +2,13 @@
 
 Este projeto é uma aplicação simples de login criada com o Flutter. Ele é feito para fornecer um exemplo básico de como se pode usar o Flutter para criar aplicativos móveis.
 
+<p align="center">
+  <img src="assets/1.png" width="250" title="Tela 1">
+  <img src="assets/2.png" width="250" title="Tela 2">
+  <img src="assets/3.png" width="250" title="Tela 3">
+</p>
+
+
 ## Recursos
 
 - Tela de Login

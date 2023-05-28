@@ -24,8 +24,8 @@ Este projeto é uma aplicação simples de login criada com o Flutter. Ele é fe
 
 - usuário valido para login:
 
-email: maumau@email.com
-senha: 123
+- email: maumau@email.com
+- senha: 123
 
 **Passos para instalação:**
 

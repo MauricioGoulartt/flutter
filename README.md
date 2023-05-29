@@ -13,9 +13,9 @@ Este projeto é uma aplicação simples de login criada com o Flutter. Ele é fe
 
 - Tela de Login
 
-- usuário valido para login:
-- email: maumau@email.com
-- senha: 123
+usuário valido para login:
+email: maumau@email.com
+senha: 123
 
 - Autenticação de usuário
 - Persistência de dados com SharedPreferences

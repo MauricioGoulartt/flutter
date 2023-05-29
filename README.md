@@ -12,6 +12,11 @@ Este projeto é uma aplicação simples de login criada com o Flutter. Ele é fe
 ## Recursos
 
 - Tela de Login
+
+- usuário valido para login:
+- email: maumau@email.com
+- senha: 123
+
 - Autenticação de usuário
 - Persistência de dados com SharedPreferences
 - Design agradável e responsivo
@@ -28,11 +33,6 @@ Este projeto é uma aplicação simples de login criada com o Flutter. Ele é fe
 
 - esse projeto se comunica com uma api nodejs em execução na aws.
 (https://github.com/MauricioGoulartt/Api-RestFUL_NodeMongoExpress)
-
-- usuário valido para login:
-
-- email: maumau@email.com
-- senha: 123
 
 **Passos para instalação:**
 

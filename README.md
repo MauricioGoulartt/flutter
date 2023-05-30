@@ -19,7 +19,7 @@ email: maumau@email.com -
 senha: 123
 
 - Autenticação de usuário
-- Persistência de dados com SharedPreferences
+- Persistência de dados com MongoDB
 - Design agradável e responsivo
 
 ## Instruções de Instalação

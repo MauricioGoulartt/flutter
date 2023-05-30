@@ -30,7 +30,7 @@ senha: 123
 - java version "17.0.7"
 - Ter o Flutter e Dart instalados em sua máquina. [Siga estas instruções se você ainda não tem o Flutter configurado.](https://flutter.dev/docs/get-started/install)
 
-**Pré-requisitos:**
+**Informações:**
 
 - esse projeto se comunica com uma api nodejs em execução na aws.
 (https://github.com/MauricioGoulartt/Api-RestFUL_NodeMongoExpress)

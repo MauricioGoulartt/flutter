@@ -20,6 +20,7 @@ senha: 123
 
 - Autenticação de usuário
 - Persistência de dados com MongoDB
+- Autenticação com JWT
 - Design agradável e responsivo
 
 ## Instruções de Instalação

@@ -1,6 +1,6 @@
 # Flutter App
 
-Este projeto é uma aplicação simples de login criada com o Flutter. Ele é feito para fornecer um exemplo básico de como se pode usar o Flutter para criar aplicativos móveis.
+Este projeto é uma aplicação simples de login criado com o Flutter. Ele é feito para fornecer um exemplo básico de como se pode usar o Flutter para criar aplicativos móveis.
 
 <p align="center">
   <img src="assets/1.png" width="150" title="Tela 1">

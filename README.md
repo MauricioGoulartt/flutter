@@ -34,7 +34,7 @@ senha: 123
 **Informações:**
 
 - esse projeto se comunica com uma api nodejs em execução na aws.
-(https://github.com/MauricioGoulartt/Api-RestFUL_NodeMongoExpress)
+(https://github.com/MauricioGoulartt/Api-NodeJS)
 
 **Passos para instalação:**
 

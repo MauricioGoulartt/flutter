@@ -13,11 +13,6 @@ Este projeto é uma aplicação simples de login criado com o Flutter. Ele é fe
 
 - Tela de Login
 
-usuário válido para login: 
-<br/>
-email: maumau@email.com -
-senha: 123
-
 - Autenticação de usuário
 - Persistência de dados com MongoDB
 - Autenticação com JWT
